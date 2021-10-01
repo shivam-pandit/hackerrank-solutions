@@ -19,7 +19,7 @@ def cutTheSticks(arr):
             a.append(len(arr))
             mini=min(arr)
 
-    return a
+    return a #returns a list filled with cut sticks sizes
                 
 
                 
